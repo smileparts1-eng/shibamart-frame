@@ -1,7 +1,2 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-# プレビュー(商品画像合成の確認用)はホスティング不要
-output/_preview_*.jpg
-.DS_Store
+apply/
+output/*_backup_*.png

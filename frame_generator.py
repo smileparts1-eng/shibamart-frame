@@ -18,7 +18,7 @@ import os, sys
 # CONFIG  ここだけ変えれば調整できます
 # ============================================================
 SHOP_NAME    = "SHIBA MART JAPAN"      # 下バーのメイン店名
-SUBTITLE     = "100% Authentic Japan"  # 下バーのサブ
+SUBTITLE     = "Shipped with Care from Japan"  # 下バーのサブ ★2026-08-06変更: 旧"100% Authentic Japan"はNGキーワード(削除トリガー)
 BANNER_TEXT  = "Direct from Japan"      # 上バナーの文言(国旗は自動描画)
 STICKER_TOP  = "日本"                   # 左上丸シール 上段
 STICKER_BTM  = "JAPAN"                  # 左上丸シール 下段
